@@ -1,4 +1,4 @@
-## Beginner's Tips
+## Match Hints and Tips
 * When an icon with a green cross appears next to a player it indicates **he is carrying a knock.**
 * **Using easy or normal tackling in a match will reduce the risk of your team picking up cautions or red cards**, particularly if the game is being officiated by a strict referee.
 * Be aware of how the weather can affect your team's performances. **Bad conditions are more likely to penalise those who play a short passing game**, try adopting **a more direct style** at times like this.
